@@ -1,0 +1,4 @@
+include ':button'
+include ':flux'
+rootProject.name='Flux'
+include ':app'
